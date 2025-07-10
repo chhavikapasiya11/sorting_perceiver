@@ -48,9 +48,8 @@ If built with plain HTML/JS:
 
 Open index.html in your browser — No setup required!
 
-📸 Screenshots
-(Add screenshots of the visualization UI here)
-Example:
+📸 Working video:
+https://drive.google.com/file/d/1Ys4qzStpJFNcNDCsFNSkE6SV3yXdgrYV/view?usp=sharing
 
 💡 Educational Value
 Sorting Perceiver aims to make algorithm learning fun, visual, and intuitive. Whether you're preparing for technical interviews or just exploring computer science, this tool offers a hands-on way to grasp sorting logic through animation.
